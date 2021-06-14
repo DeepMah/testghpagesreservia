@@ -290,9 +290,18 @@ i.no-star {
 }
 
 .plus-populaire h2{
-	font-size: 25px;
+	font-size: 23px;
 	margin-left: 10px;
+	
 }
+
+
+.titrepopulaire{
+	display: flex; 
+	justify-content: space-around;
+	align-items: baseline;
+}
+
 
 .box2 {
 	align-items: center;
